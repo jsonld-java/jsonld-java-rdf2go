@@ -1,5 +1,3 @@
-Note: this is the documentation for the current unstable development branch. [For the stable release documentation see here](https://github.com/jsonld-java/jsonld-java/blob/v0.3/integration/rdf2go/README.md)
-
 JSONLD-Java RDF2Go Integration module
 =====================================
 
@@ -12,7 +10,7 @@ From Maven
     <dependency>
         <groupId>com.github.jsonld-java</groupId>
         <artifactId>jsonld-java-rdf2go</artifactId>
-        <version>0.4-SNAPSHOT</version>
+        <version>0.7.0-SNAPSHOT</version>
     </dependency>
 
 (Adjust for most recent <version>, as found in ``pom.xml``).
