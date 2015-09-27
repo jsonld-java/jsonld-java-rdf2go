@@ -2,7 +2,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
 	<parent>
-		<artifactId>jsonld-java-integration</artifactId>
+		<artifactId>jsonld-java-parent</artifactId>
 		<groupId>com.github.jsonld-java</groupId>
 		<version>0.6.1-SNAPSHOT</version>
 	</parent>
@@ -19,6 +19,10 @@
 			<url>http://ismaelrivera.es</url>
 		</developer>
 	</developers>
+
+	<properties>
+		<rdf2go.version>5.0.1</rdf2go.version>
+	</properties>
 
 	<dependencies>
 		<dependency>
