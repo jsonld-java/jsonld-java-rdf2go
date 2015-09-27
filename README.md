@@ -1,8 +1,8 @@
 JSONLD-Java RDF2Go Integration module
 =====================================
 
-[![Build Status](https://travis-ci.org/jsonld-java/jsonld-java.svg?branch=master)](https://travis-ci.org/jsonld-java/jsonld-java) 
-[![Coverage Status](https://coveralls.io/repos/jsonld-java/jsonld-java/badge.svg?branch=master)](https://coveralls.io/r/jsonld-java/jsonld-java?branch=master)
+[![Build Status](https://travis-ci.org/jsonld-java/jsonld-java-rdf2go.svg?branch=master)](https://travis-ci.org/jsonld-java/jsonld-java-rdf2go) 
+[![Coverage Status](https://coveralls.io/repos/jsonld-java/jsonld-java-rdf2go/badge.svg?branch=master)](https://coveralls.io/r/jsonld-java/jsonld-java-rdf2go?branch=master)
 
 USAGE
 =====
