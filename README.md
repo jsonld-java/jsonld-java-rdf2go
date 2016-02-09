@@ -13,7 +13,7 @@ From Maven
     <dependency>
         <groupId>com.github.jsonld-java</groupId>
         <artifactId>jsonld-java-rdf2go</artifactId>
-        <version>0.7.0</version>
+        <version>0.8.0</version>
     </dependency>
 
 Serializing RDF into JSON-LD using RDF2GoRDFParser
